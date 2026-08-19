@@ -1,16 +1,18 @@
 {
-  "name": "Millionaire Mind Quest",
-  "short_name": "Millionaire",
-  "start_url": "/",
+  "name": "تحدي الملايين الثلاثة",
+  "short_name": "الملايين الثلاثة",
+  "description": "a trivia quiz game",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "description": "A trivia quiz game.",
+  "background_color": "#0B0505",
+  "theme_color": "#180404",
   "icons": [
     {
       "src": "icon.PNG",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
+
